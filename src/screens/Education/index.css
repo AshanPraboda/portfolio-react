@@ -1,0 +1,217 @@
+#rd5{
+    position:absolute;
+    left: 650px;
+    top:0px;
+    z-index:-1;
+    
+    }
+    
+    #h33{
+        font-size: 30px;
+        color:#7a5b0c;
+        text-align: center;
+    }
+    
+    /* .section {
+        padding: 1rem 1rem;
+    } */
+    
+    #r2{
+        position:absolute;
+        left:0px;
+        top:0px;
+        margin-left: 50px;
+        margin-top: 40px;
+        display: block;
+        width: auto;
+        height: auto;
+        z-index:0;
+        }
+    
+    #pp{
+            position:absolute;
+            left:0px;
+            top:0px;
+            margin-left: 75px;
+            margin-top: 60px;
+            display: block;
+            border-radius: 100%;
+            width: 81%;
+            height: auto;
+            z-index:1;
+            }
+    
+    #h11{
+        font-size: 85px;
+        color:#7a5b0c;
+        text-align:left;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 70pt;
+    }
+    #h22{
+        font-size: 70px;
+        color:#4C4747;
+        text-align: left;
+        font-family:Inria Serif;
+    }
+    #h23{
+        font-size: 45px;
+        color:#4C4747;
+        font-weight: bold;
+        text-align: justify;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    }
+    
+    #p11{
+        font-size: 24px;
+        color:rgb(255, 255, 255);
+        text-align: justify;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        font-weight: bold;
+        
+    }
+    #p12{
+        font-size: 28px;
+        margin-left: 90px;
+        color:rgb(255, 255, 255);
+        text-align: right;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+        font-weight: bold;
+    }
+    #p13{
+      font-size: 28px;
+      margin-left: 0px;
+      color:rgb(255, 255, 255);
+      text-align: left;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      position: absolute;
+      font-weight: bold;
+    }
+    #g4{
+        position:static;
+        left: 0px;;
+        top: 30px;;
+        width: 1900px;
+        height: 900px;
+        }
+    .navbar{
+            background-color:hwb(0 13% 87%);
+            min-height: 3.00rem;
+            position: relative;
+            z-index: 0;
+            color: #FFBE17;
+            
+    }
+     .square {
+        height: 280px;
+        width: 430px;
+        background-color: #555;
+        border-radius:1cm;
+        text-align: center;
+        position: relative;
+        left: 150px;
+      }
+      .squarei {
+        height: 280px;
+        width: 430px;
+        background-color: #FFBE17 ;
+        border-radius:1cm;
+        text-align: center;
+        position: relative;
+        left: 150px;
+      } */
+     
+      .square2x{
+        height: 300px;
+        width: 780px;
+        background-color: #FFBE17;
+        border-radius:1cm;
+        text-align: left;
+        position: relative;
+        left: -100px;
+        border-top-left-radius: 1cm;
+        border-bottom-left-radius: 1cm;
+      }
+      .square2i{
+        height: 280px;
+        width: 750px;
+        background-color: #555;
+        border-radius:1cm;
+        text-align: left;
+        position: relative;
+        left: -100px;
+        border-top-left-radius: 1cm;
+        border-bottom-left-radius: 1cm;
+      }
+      .link-insta{
+        font-size: 6rem;
+        color:rgb(133, 130, 130) ;
+      }
+      .link-insta:hover{
+        transform: scale(1.52);
+        color: #f1c75a;
+      }
+     
+    .section-center{
+      width:90vw;
+      max-width: 1170px;
+      margin: 0 auto;
+    }
+    
+    .card-container{
+      margin: 0 auto;
+      margin-top: 2rem;
+      width: 70%;
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      /* position: relative; */
+    }
+    .card-1{
+      color: rgb(58, 57, 57);
+      padding: 3rem 2rem;
+      border-top-left-radius: 1cm;
+      border-bottom-left-radius: 1cm;
+      background:#FFBE17;
+      text-transform: capitalize;
+      font-size: 1.5rem;
+      font-weight: bold;
+      text-align: center;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .card-3{
+      color:#FFBE17;
+      padding: 3rem 2rem;
+      border-top-left-radius: 1cm;
+      border-bottom-left-radius: 1cm;
+      background:rgb(58, 57, 57);
+      text-transform: capitalize;
+      font-size: 1.5rem;
+      font-weight: bold;
+      text-align: center;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .card-2{
+      padding: 3rem 2rem;
+      border-radius: 1cm;
+      background:rgb(58, 57, 57);
+      color: #FFBE17;
+      transform: translateX(-2rem);
+      text-transform: capitalize;
+      font-size: 1.5rem;
+      font-weight: bold;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .card-4{
+      padding: 3rem 2rem;
+      border-radius: 1cm;
+      background:#FFBE17;
+      color:rgb(58, 57, 57);
+      transform: translateX(-2rem);
+      text-transform: capitalize;
+      font-size: 1.5rem;
+      font-weight: bold;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
